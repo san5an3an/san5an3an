@@ -27,7 +27,9 @@
 
   <b>자주 사용해왔어요</b>
 <br>
+<br>
   <b>Design Tools</b>
+  <br>
   <br>
   ![Adobe](https://img.shields.io/badge/Adobe-Design-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -35,6 +37,7 @@
 <br>
 <br>
   <b>Development</b>
+  <br>
   <br>
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
