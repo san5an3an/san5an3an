@@ -33,6 +33,10 @@
   ![Rive](https://img.shields.io/badge/Rive-Animation-1A1A1A?style=for-the-badge&logo=rive&logoColor=white)
 
   <b>Development</b>
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  ![Cursor](https://img.shields.io/badge/Cursor-AI%20Editor-000000?style=for-the-badge)
+  ![Antigravity](https://img.shields.io/badge/Antigravity-Creative%20AI-5B5BFF?style=for-the-badge)
   ![Swift](https://img.shields.io/badge/swift%20-F05138.svg?style=for-the-badge&logo=swift&logoColor=white)
   ![iOS](https://img.shields.io/badge/ios%20-000000.svg?style=for-the-badge&logo=apple&logoColor=white)
   ![iOS](https://img.shields.io/badge/xcode%20-147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
