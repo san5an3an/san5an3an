@@ -26,13 +26,16 @@
 <p align="center">
 
   <b>자주 사용해왔어요</b>
-
+<br>
   <b>Design Tools</b>
+  <br>
   ![Adobe](https://img.shields.io/badge/Adobe-Design-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![Rive](https://img.shields.io/badge/Rive-Animation-1A1A1A?style=for-the-badge&logo=rive&logoColor=white)
-
+<br>
+<br>
   <b>Development</b>
+  <br>
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
   ![Cursor](https://img.shields.io/badge/Cursor-AI%20Editor-000000?style=for-the-badge)
@@ -44,6 +47,7 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
+<br>
 <br>
 
   <b>공부중에 있어요</b>
