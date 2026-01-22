@@ -10,6 +10,7 @@
   - Unit Test
   - RxSwift, Combine
   - SwiftUI
+  - JavaScript
   - TypeScript
   - React
     
